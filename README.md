@@ -1,4 +1,4 @@
-How To Find The Minimum And Maximum Values Of A List In Java
+# How To Find The Minimum And Maximum Values Of A List In Java
 
 ```java
 import java.util.*;
